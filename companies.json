@@ -1,0 +1,512 @@
+[
+    {
+        "SNo":  1,
+        "Name":  "Calligo Technologies",
+        "Url":  "https://calligotech.com/"
+    },
+    {
+        "SNo":  2,
+        "Name":  "3rd iTech",
+        "Url":  "https://www.3rditech.in/"
+    },
+    {
+        "SNo":  3,
+        "Name":  "Fermionic Design",
+        "Url":  "https://fermionicdesign.com/"
+    },
+    {
+        "SNo":  4,
+        "Name":  "GreenPMU Semi",
+        "Url":  "https://greenpmusemi.com/"
+    },
+    {
+        "SNo":  5,
+        "Name":  "Morphing Machines",
+        "Url":  "https://www.morphing.in/"
+    },
+    {
+        "SNo":  6,
+        "Name":  "Netrasemi",
+        "Url":  "https://www.netrasemi.com/"
+    },
+    {
+        "SNo":  7,
+        "Name":  "Saankhya Labs",
+        "Url":  "https://saankhyalabs.com/"
+    },
+    {
+        "SNo":  8,
+        "Name":  "SenseSemi Technologies",
+        "Url":  "https://www.sensesemi.com/"
+    },
+    {
+        "SNo":  9,
+        "Name":  "WiSig Networks",
+        "Url":  "https://wisig.com/"
+    },
+    {
+        "SNo":  10,
+        "Name":  "Vervesemi Microelectronics",
+        "Url":  "http://www.vervesemi.com/"
+    },
+    {
+        "SNo":  11,
+        "Name":  "Qualivon Technologies",
+        "Url":  "https://www.qualivontechnologies.com/"
+    },
+    {
+        "SNo":  12,
+        "Name":  "Aagya Vision",
+        "Url":  "https://aagyavision.com"
+    },
+    {
+        "SNo":  13,
+        "Name":  "Vasbeam",
+        "Url":  "https://www.vasbeam.com/"
+    },
+    {
+        "SNo":  14,
+        "Name":  "InCore Semiconductors",
+        "Url":  "https://incoresemi.com/"
+    },
+    {
+        "SNo":  15,
+        "Name":  "SandLogic Technologies",
+        "Url":  "https://www.sandlogic.com"
+    },
+    {
+        "SNo":  16,
+        "Name":  "ChipSpirit",
+        "Url":  "https://www.chipspirit.com/"
+    },
+    {
+        "SNo":  17,
+        "Name":  "Semiksha",
+        "Url":  "https://semiksha.com/"
+    },
+    {
+        "SNo":  18,
+        "Name":  "Silizium Circuits",
+        "Url":  "https://www.siliziumcircuits.com"
+    },
+    {
+        "SNo":  19,
+        "Name":  "Terminus Circuits",
+        "Url":  "https://www.terminuscircuits.com"
+    },
+    {
+        "SNo":  20,
+        "Name":  "ABCR Labs",
+        "Url":  "https://abcrlabs.com/"
+    },
+    {
+        "SNo":  21,
+        "Name":  "Ampicq",
+        "Url":  "https://ampicq.com/"
+    },
+    {
+        "SNo":  22,
+        "Name":  "Big Endian Semiconductors",
+        "Url":  "https://bigendiansemi.com/"
+    },
+    {
+        "SNo":  23,
+        "Name":  "Mindgrove Technologies",
+        "Url":  "https://www.mindgrovetech.in/"
+    },
+    {
+        "SNo":  24,
+        "Name":  "MosChip Technologies",
+        "Url":  "https://moschip.com/"
+    },
+    {
+        "SNo":  25,
+        "Name":  "Silicon Support Solutions",
+        "Url":  "https://www.siliconsupportsolutions.com/"
+    },
+    {
+        "SNo":  26,
+        "Name":  "STTEER Engineering",
+        "Url":  "https://www.stteereng.com/"
+    },
+    {
+        "SNo":  27,
+        "Name":  "Dheyo.ai",
+        "Url":  "https://dheyo.ai/"
+    },
+    {
+        "SNo":  28,
+        "Name":  "Kri Semi Design Tech",
+        "Url":  "https://krisemidesigntech.com/"
+    },
+    {
+        "SNo":  29,
+        "Name":  "MBit Wireless",
+        "Url":  "https://www.mbitwireless.com/"
+    },
+    {
+        "SNo":  30,
+        "Name":  "Quanfluence",
+        "Url":  "https://quanfluence.com/"
+    },
+    {
+        "SNo":  31,
+        "Name":  "Sophrosyne Technologies",
+        "Url":  "https://sophrosynetechnologies.com/"
+    },
+    {
+        "SNo":  32,
+        "Name":  "PentaRISC Systems",
+        "Url":  "https://pentarisc.systems/"
+    },
+    {
+        "SNo":  33,
+        "Name":  "Citilight",
+        "Url":  "https://www.citilight.co/"
+    },
+    {
+        "SNo":  34,
+        "Name":  "C2i Semi",
+        "Url":  "https://c2isemi.com/"
+    },
+    {
+        "SNo":  35,
+        "Name":  "Asnaviram",
+        "Url":  "https://www.asnaviram.in/"
+    },
+    {
+        "SNo":  36,
+        "Name":  "Bitsilica",
+        "Url":  "https://bitsilica.com/"
+    },
+    {
+        "SNo":  37,
+        "Name":  "Manjeera DS",
+        "Url":  "https://www.manjeerads.com/"
+    },
+    {
+        "SNo":  38,
+        "Name":  "PNS SysLabs",
+        "Url":  "https://pnssyslabs.com/"
+    },
+    {
+        "SNo":  39,
+        "Name":  "IndieSemic",
+        "Url":  "https://www.indiesemic.com/"
+    },
+    {
+        "SNo":  40,
+        "Name":  "Line Semi",
+        "Url":  "http://www.linesemi.co.in/"
+    },
+    {
+        "SNo":  41,
+        "Name":  "Nanojoules",
+        "Url":  "http://www.nanojoules.com/"
+    },
+    {
+        "SNo":  42,
+        "Name":  "Cimware",
+        "Url":  "https://cimware.in/"
+    },
+    {
+        "SNo":  43,
+        "Name":  "PrimeSoC Technologies",
+        "Url":  "https://www.primesoctechnologies.com/"
+    },
+    {
+        "SNo":  44,
+        "Name":  "Struent Semi",
+        "Url":  "https://struentsemi.com/"
+    },
+    {
+        "SNo":  45,
+        "Name":  "Reslink",
+        "Url":  "https://www.reslink.org/"
+    },
+    {
+        "SNo":  46,
+        "Name":  "Cilicon Chip",
+        "Url":  "https://ciliconchip.com"
+    },
+    {
+        "SNo":  47,
+        "Name":  "Spintronics AI",
+        "Url":  "https://spintronicsai.com/"
+    },
+    {
+        "SNo":  48,
+        "Name":  "Memrym",
+        "Url":  "https://memrym.com/"
+    },
+    {
+        "SNo":  49,
+        "Name":  "SmartKosh",
+        "Url":  "https://www.smartkosh.com/"
+    },
+    {
+        "SNo":  50,
+        "Name":  "Quantum Shift",
+        "Url":  "https://www.quantumshift.in/"
+    },
+    {
+        "SNo":  51,
+        "Name":  "V Connect Tech Systems",
+        "Url":  "https://www.vconnectechsystems.com/"
+    },
+    {
+        "SNo":  52,
+        "Name":  "Maxvy Technologies",
+        "Url":  "https://maxvytech.com/"
+    },
+    {
+        "SNo":  53,
+        "Name":  "Trellisign",
+        "Url":  "https://www.trellisign.com/"
+    },
+    {
+        "SNo":  54,
+        "Name":  "Linear Amptech",
+        "Url":  "https://linear-amptech.com/"
+    },
+    {
+        "SNo":  55,
+        "Name":  "Semicon Design",
+        "Url":  "https://semicondesign.com/"
+    },
+    {
+        "SNo":  56,
+        "Name":  "SignalChip",
+        "Url":  "https://www.signalchip.com/"
+    },
+    {
+        "SNo":  57,
+        "Name":  "SpeedBus Semiconductors",
+        "Url":  "https://speedbussemiconductors.com/"
+    },
+    {
+        "SNo":  58,
+        "Name":  "TrueSilicon",
+        "Url":  "https://www.truesilicon.net/"
+    },
+    {
+        "SNo":  59,
+        "Name":  "Syrma SGS",
+        "Url":  "https://syrmasgs.com/"
+    },
+    {
+        "SNo":  60,
+        "Name":  "Trispace Tech",
+        "Url":  "https://trispacetech.com/"
+    },
+    {
+        "SNo":  61,
+        "Name":  "WNP",
+        "Url":  "https://www.wnp.io/"
+    },
+    {
+        "SNo":  62,
+        "Name":  "PRS Semicon",
+        "Url":  "https://prssemicon.com/"
+    },
+    {
+        "SNo":  63,
+        "Name":  "Incise",
+        "Url":  "https://incise.in/"
+    },
+    {
+        "SNo":  64,
+        "Name":  "Multi Nanosense",
+        "Url":  "https://www.multinanosense.com/"
+    },
+    {
+        "SNo":  65,
+        "Name":  "MMRFIC Technology",
+        "Url":  "https://mmrfic.com/"
+    },
+    {
+        "SNo":  66,
+        "Name":  "Signitude",
+        "Url":  "http://www.signitude.com"
+    },
+    {
+        "SNo":  67,
+        "Name":  "Xtreme Silica",
+        "Url":  "http://www.xtremesilica.com"
+    },
+    {
+        "SNo":  68,
+        "Name":  "Selenean Tech",
+        "Url":  "http://www.seleneantech.com"
+    },
+    {
+        "SNo":  69,
+        "Name":  "Cryologiq",
+        "Url":  "http://www.cryologiq.in"
+    },
+    {
+        "SNo":  70,
+        "Name":  "Orviss Semi",
+        "Url":  "http://www.orvissemi.com"
+    },
+    {
+        "SNo":  71,
+        "Name":  "Sigan Semi",
+        "Url":  "https://sigansemi.com/"
+    },
+    {
+        "SNo":  72,
+        "Name":  "LeadSoC",
+        "Url":  "https://www.leadsoc.com/"
+    },
+    {
+        "SNo":  73,
+        "Name":  "Ananant Systems",
+        "Url":  "https://ananantsys.com/"
+    },
+    {
+        "SNo":  74,
+        "Name":  "Photon Silica",
+        "Url":  "http://www.photonsilica.in"
+    },
+    {
+        "SNo":  75,
+        "Name":  "Syncmotor",
+        "Url":  "https://syncmotor.com/"
+    },
+    {
+        "SNo":  76,
+        "Name":  "Univision Tech Solutions",
+        "Url":  "https://www.univisiontechsolutions.com/"
+    },
+    {
+        "SNo":  77,
+        "Name":  "Sophic Silicon",
+        "Url":  "https://www.sophicsilicon.com/"
+    },
+    {
+        "SNo":  78,
+        "Name":  "Aritrak",
+        "Url":  "https://aritrak.com/"
+    },
+    {
+        "SNo":  79,
+        "Name":  "Sicrest Semiconductors",
+        "Url":  "https://www.sicrestsemiconductors.com/"
+    },
+    {
+        "SNo":  80,
+        "Name":  "Maieutic Semi",
+        "Url":  "https://www.maieuticsemi.com/"
+    },
+    {
+        "SNo":  81,
+        "Name":  "Vaaluka",
+        "Url":  "https://vaaluka.com"
+    },
+    {
+        "SNo":  82,
+        "Name":  "XSoC Technologies",
+        "Url":  "https://xsoctech.com/"
+    },
+    {
+        "SNo":  83,
+        "Name":  "SemiFront",
+        "Url":  "https://semifront.com/"
+    },
+    {
+        "SNo":  84,
+        "Name":  "Vellore Semicon",
+        "Url":  "https://velloresemicon.com/"
+    },
+    {
+        "SNo":  85,
+        "Name":  "Opto-ML",
+        "Url":  "https://opto-ml.com/"
+    },
+    {
+        "SNo":  86,
+        "Name":  "Vicharak",
+        "Url":  "https://vicharak.in/"
+    },
+    {
+        "SNo":  87,
+        "Name":  "Interex Semi",
+        "Url":  "https://interexsemi.com/"
+    },
+    {
+        "SNo":  88,
+        "Name":  "Banashree Systems",
+        "Url":  "https://www.banashreesystems.com/"
+    },
+    {
+        "SNo":  89,
+        "Name":  "Astrome Technologies",
+        "Url":  "https://astrome.co/"
+    },
+    {
+        "SNo":  90,
+        "Name":  "Keenheads",
+        "Url":  "https://keenheads.com/"
+    },
+    {
+        "SNo":  91,
+        "Name":  "Secure Machines",
+        "Url":  "https://www.securemachines.in/"
+    },
+    {
+        "SNo":  92,
+        "Name":  "Sikern",
+        "Url":  "https://sikern.com/"
+    },
+    {
+        "SNo":  93,
+        "Name":  "IntSemi",
+        "Url":  "https://www.intsemi.com/"
+    },
+    {
+        "SNo":  94,
+        "Name":  "Mosart Semi",
+        "Url":  "https://mosartsemi.com/"
+    },
+    {
+        "SNo":  95,
+        "Name":  "GTS25",
+        "Url":  "https://gts25.com/"
+    },
+    {
+        "SNo":  96,
+        "Name":  "Manovega AI",
+        "Url":  "https://manovega.ai/"
+    },
+    {
+        "SNo":  97,
+        "Name":  "Sampige Semi",
+        "Url":  "https://sampigesemi.com/"
+    },
+    {
+        "SNo":  98,
+        "Name":  "Atantri",
+        "Url":  "https://atantri.com/"
+    },
+    {
+        "SNo":  99,
+        "Name":  "Ciris Semi",
+        "Url":  "https://cirissemi.com/"
+    },
+    {
+        "SNo":  100,
+        "Name":  "Smart-DV",
+        "Url":  "https://www.smart-dv.com/"
+    },
+    {
+        "SNo":  101,
+        "Name":  "Synergy Quantum",
+        "Url":  "https://www.synergyquantum.in/"
+    },
+    {
+        "SNo":  102,
+        "Name":  "Terafence",
+        "Url":  "https://www.terafence.in/"
+    }
+]

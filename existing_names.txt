@@ -1,0 +1,175 @@
+﻿3rd iTech
+Aagya Vision
+ABCR Labs
+Achronix Semiconductor
+ACL Digital (ALTEN Group)
+Allegro MicroSystems
+Alphawave Semi
+AMD
+Ampere Computing
+Ampicq
+Analog Devices (ADI)
+Ananant Systems
+Apple (Hardware Silicon Engineering)
+Applied Materials
+Aritrak
+Arm
+ASICzen Technologies
+Asnaviram
+Astrome Technologies
+Atantri
+Banashree Systems
+Big Endian Semiconductors
+Bitsilica
+Broadcom
+C2i Semi
+Cadence Design Systems
+Calligo Technologies
+Capgemini Engineering (formerly Altran)
+Cerium Systems (Tech Mahindra)
+Ceva (CEVA DSP)
+ChipSpirit
+Cilicon Chip
+Cimware
+Ciris Semi
+Cirrus Logic
+Cisco Systems (Silicon One / ASIC)
+Citilight
+Cryologiq
+Cyient
+Dheyo.ai
+DreamBig Semiconductor
+EdgeQ
+eInfochips (An Arrow Company)
+Faststream Technologies
+Fermionic Design
+Google (Silicon / Hardware)
+GreenPMU Semi
+GTS25
+HCLTech (Silicon & VLSI Engineering)
+Ignitarium Technology Solutions
+Incise
+InCore Semiconductors
+IndieSemic
+Infineon Technologies
+Infosys (Semiconductor Practice)
+Intel
+Interex Semi
+IntSemi
+Invecas
+Juniper Networks (HPE)
+Keenheads
+KPIT Technologies
+Kri Semi Design Tech
+L&T Semiconductor Technologies (LTSCT)
+Lattice Semiconductor
+LeadSoC
+LeapMetrics
+Line Semi
+Linear Amptech
+Maieutic Semi
+Manjeera DS
+Manovega AI
+Marvell Technology
+MaxLinear
+Maxvy Technologies
+MBit Wireless
+MediaTek
+Memrym
+Microchip Technology
+Micron Technology
+Microsoft (Silicon Engineering)
+Mindgrove Technologies
+Mirafra Technologies
+Mistral Solutions
+MMRFIC Technology
+Morphing Machines
+Mosart Semi
+MosChip Technologies
+Multi Nanosense
+Nanojoules
+Netrasemi
+NVIDIA
+NXP Semiconductors
+onsemi (ON Semiconductor)
+Opto-ML
+Orviss Semi
+PentaRISC Systems
+PerfectVIPs
+Photon Silica
+PNS SysLabs
+PrimeSoC Technologies
+Prodigy Technovations
+PRS Semicon
+Qualcomm
+Qualivon Technologies
+Quanfluence
+Quantum Shift
+Rambus
+Renesas Electronics
+Reslink
+Saankhya Labs
+Sampige Semi
+SandLogic Technologies
+Sankalp Semiconductor (HCLTech)
+Secure Machines
+Selenean Tech
+Semicon Design
+SemiFront
+Semiksha
+SenseSemi Technologies
+Sevya Multimedia
+Sicrest Semiconductors
+Siemens EDA (Mentor Graphics)
+SiFive
+Sigan Semi
+SignalChip
+Signitude
+SignOff Semiconductors
+Sikern
+Silicon Labs
+Silicon Support Solutions
+Siliconally
+Silizium Circuits
+Skyworks Solutions
+Smart-DV Technologies
+SmartKosh
+Softnautics
+Sophic Silicon
+Sophrosyne Technologies
+SpeedBus Semiconductors
+Spintronics AI
+STMicroelectronics
+Struent Semi
+STTEER Engineering
+Synaptics
+Syncmotor
+Synergy Quantum
+Synopsys
+Syrma SGS
+Tata Elxsi
+Tata Technologies
+Tenstorrent
+Terafence
+Terminus Circuits
+Tessolve Semiconductor
+Texas Instruments (TI)
+Trellisign
+Trispace Tech
+Truechip Solutions
+TrueSilicon
+Univision Tech Solutions
+Untether AI
+V Connect Tech Systems
+Vaaluka
+Vasbeam
+Vayavya Labs
+Vellore Semicon
+Vervesemi Microelectronics
+Vicharak
+Western Digital / SanDisk
+Wipro VLSI (Wipro Engineering Edge)
+WiSig Networks
+WNP
+XSoC Technologies
+Xtreme Silica

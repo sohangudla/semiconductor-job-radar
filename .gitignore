@@ -1,0 +1,8 @@
+Daily_Career_Report*.html
+job_history.json*
+latest_results.json*
+*.backup.*
+*.before-*
+*.bak-*
+HR_Email_Check_*.csv
+*Resume*.pdf
